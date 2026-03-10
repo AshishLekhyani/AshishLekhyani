@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ashish
 
-💻 Frontend Developer focused on building modern, responsive web applications.
+💻 Frontend Developer | React • TypeScript • Next.js  
+Building modern, responsive web applications.
 
 ---
 
@@ -30,35 +31,49 @@
 
 ## 🚀 Projects
 
-### 🗂 Project Name
- description
-
+### 🍽️ NutriBite
 🔗 **Links**
 
-- Live Demo:  
-- Repo: 
+- [Live Demo]: https://ashishlekhyani.github.io/NutriBite/
+- [Repo]: https://github.com/AshishLekhyani/NutriBite
 
 
-### 📊 Project Name
- description 
-
+### ▶️ StreamTube
 🔗 **Links**
 
-- Live Demo:  
-- Repo:
+- [Live Demo]: https://ashishlekhyani.github.io/StreamTube/
+- [Repo]: https://github.com/AshishLekhyani/StreamTube
 
 
-### 🛒 Project Name
-description
-
+### 🛒 PureCart
 🔗 **Links**
 
-- Live Demo: 
-- Repo: 
+- [Live Demo]: https://ashishlekhyani.github.io/PureCart/
+- [Repo]: https://github.com/AshishLekhyani/PureCart
+
+
+### 🏃‍➡️ MotionGoals
+🔗 **Links**
+
+- [Live Demo]: https://ashishlekhyani.github.io/MotionGoals/
+- [Repo]: https://github.com/AshishLekhyani/MotionGoals
+
+
+### ⌚ TimerGame
+🔗 **Links**
+
+- [Live Demo]: https://ashishlekhyani.github.io/TimerGame/
+- [Repo]: https://github.com/AshishLekhyani/TimerGame
+
+
+### 🎅 HolidayPlanner
+🔗 **Links**
+
+- [Repo]: https://github.com/AshishLekhyani/HolidayPlanner
 
 
 ---
 
 ## 🔗 Connect With Me
 
-- LinkedIn: 
+- LinkedIn: [Ashish Lekhyani](https://www.linkedin.com/in/ashish-lekhyani-922aab2b7/)
