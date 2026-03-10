@@ -34,42 +34,42 @@ Building modern, responsive web applications.
 ### 🍽️ NutriBite
 🔗 **Links**
 
-- [Live Demo]: https://ashishlekhyani.github.io/NutriBite/
-- [Repo]: https://github.com/AshishLekhyani/NutriBite
+- [Live Demo](https://ashishlekhyani.github.io/NutriBite/)
+- [Repo](https://github.com/AshishLekhyani/NutriBite)
 
 
 ### ▶️ StreamTube
 🔗 **Links**
 
-- [Live Demo]: https://ashishlekhyani.github.io/StreamTube/
-- [Repo]: https://github.com/AshishLekhyani/StreamTube
+- [Live Demo](https://ashishlekhyani.github.io/StreamTube/)
+- [Repo](https://github.com/AshishLekhyani/StreamTube)
 
 
 ### 🛒 PureCart
 🔗 **Links**
 
-- [Live Demo]: https://ashishlekhyani.github.io/PureCart/
-- [Repo]: https://github.com/AshishLekhyani/PureCart
+- [Live Demo](https://ashishlekhyani.github.io/PureCart/)
+- [Repo](https://github.com/AshishLekhyani/PureCart)
 
 
 ### 🏃‍➡️ MotionGoals
 🔗 **Links**
 
-- [Live Demo]: https://ashishlekhyani.github.io/MotionGoals/
-- [Repo]: https://github.com/AshishLekhyani/MotionGoals
+- [Live Demo](https://ashishlekhyani.github.io/MotionGoals/)
+- [Repo](https://github.com/AshishLekhyani/MotionGoals)
 
 
 ### ⌚ TimerGame
 🔗 **Links**
 
-- [Live Demo]: https://ashishlekhyani.github.io/TimerGame/
-- [Repo]: https://github.com/AshishLekhyani/TimerGame
+- [Live Demo](https://ashishlekhyani.github.io/TimerGame/)
+- [Repo](https://github.com/AshishLekhyani/TimerGame)
 
 
 ### 🎅 HolidayPlanner
 🔗 **Links**
 
-- [Repo]: https://github.com/AshishLekhyani/HolidayPlanner
+- [Repo](https://github.com/AshishLekhyani/HolidayPlanner)
 
 
 ---
