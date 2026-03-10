@@ -76,4 +76,4 @@ Building modern, responsive web applications.
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [Ashish Lekhyani](https://www.linkedin.com/in/ashish-lekhyani-922aab2b7/)
+- LinkedIn: [Ashish Lekhyani](https://www.linkedin.com/in/ashishlekhyani/)
