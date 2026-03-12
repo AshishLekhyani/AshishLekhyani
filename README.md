@@ -41,14 +41,14 @@ Building modern, responsive web applications.
 ### ▶️ StreamTube
 🔗 **Links**
 
-- [Liv Demo]((https://ashishlekhyani.github.io/StreamTube/)
+- [Liv Demo](https://ashishlekhyani.github.io/StreamTube/)
 - [Repo](https://github.com/AshishLekhyani/StreamTube)
 
 
 ### 🛒 PureCart
 🔗 **Links**
 
-- [Live Demo]((https://ashishlekhyani.github.io/PureCart/)
+- [Live Demo](https://ashishlekhyani.github.io/PureCart/)
 - [Repo](https://github.com/AshishLekhyani/PureCart)
 
 
