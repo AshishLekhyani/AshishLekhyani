@@ -41,7 +41,7 @@ Building modern, responsive web applications.
 ### ▶️ StreamTube
 🔗 **Links**
 
-- [Liv Demo](https://ashishlekhyani.github.io/StreamTube/)
+- [Live Demo](https://ashishlekhyani.github.io/StreamTube/)
 - [Repo](https://github.com/AshishLekhyani/StreamTube)
 
 
