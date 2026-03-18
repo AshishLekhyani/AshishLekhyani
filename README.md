@@ -34,7 +34,7 @@ Building modern, responsive web applications.
 ### 🍽️ NutriBite
 🔗 **Links**
 
-- [Live Demo](https://ashishlekhyani.github.io/NutriBite/)
+- [Live Demo](https://nutribite-app.netlify.app/)
 - [Repo](https://github.com/AshishLekhyani/NutriBite)
 
 
@@ -55,14 +55,14 @@ Building modern, responsive web applications.
 ### 🏃‍➡️ MotionGoals
 🔗 **Links**
 
-- [Live Demo](https://ashishlekhyani.github.io/MotionGoals/)
+- [Live Demo](https://motiongoals.netlify.app/)
 - [Repo](https://github.com/AshishLekhyani/MotionGoals)
 
 
 ### ⌚ TimerGame
 🔗 **Links**
 
-- [Live Demo](https://ashishlekhyani.github.io/TimerGame/)
+- [Live Demo](https://timergame-app.netlify.app/)
 - [Repo](https://github.com/AshishLekhyani/TimerGame)
 
 
