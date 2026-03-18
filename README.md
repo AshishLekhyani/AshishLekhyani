@@ -48,7 +48,7 @@ Building modern, responsive web applications.
 ### 🛒 PureCart
 🔗 **Links**
 
-- [Live Demo](https://ashishlekhyani.github.io/PureCart/)
+- [Live Demo](https://purecart-app.netlify.app/)
 - [Repo](https://github.com/AshishLekhyani/PureCart)
 
 
