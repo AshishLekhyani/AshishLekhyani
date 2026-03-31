@@ -38,11 +38,11 @@ Building modern, responsive web applications.
 - [Repo](https://github.com/AshishLekhyani/NutriBite)
 
 
-### ▶️ StreamTube
+### 🧑‍💻 GitScope
 🔗 **Links**
 
-- [Live Demo](https://ashishlekhyani.github.io/StreamTube/)
-- [Repo](https://github.com/AshishLekhyani/StreamTube)
+- [Live Demo](https://git-scope-pi.vercel.app/)
+- [Repo](https://github.com/AshishLekhyani/GitScope)
 
 
 ### 🛒 PureCart
