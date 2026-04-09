@@ -42,7 +42,7 @@ Building modern, responsive web applications.
 🔗 **Links**
 
 - [Live Demo](https://git-scope-pi.vercel.app/)
-- Private Repo
+- [Repo](https://github.com/AshishLekhyani/GitScope)
 
 
 ### 🛒 PureCart
