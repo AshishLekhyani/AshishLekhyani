@@ -69,7 +69,7 @@ Building modern, responsive web applications.
 ### 🎥 Video Codex
 🔗 **Links**
 
--[Live Demo](https://ashishlekhyani-video-codex.hf.space/)
+- [Live Demo](https://ashishlekhyani-video-codex.hf.space/)
 - [Repo](https://github.com/AshishLekhyani/Video-Codex)
 
 
