@@ -66,10 +66,11 @@ Building modern, responsive web applications.
 - [Repo](https://github.com/AshishLekhyani/TimerGame)
 
 
-### 🎅 HolidayPlanner
+### 🎥 Video Codex
 🔗 **Links**
 
-- [Repo](https://github.com/AshishLekhyani/HolidayPlanner)
+-[Live Demo](https://ashishlekhyani-video-codex.hf.space/)
+- [Repo](https://github.com/AshishLekhyani/Video-Codex)
 
 
 ---
